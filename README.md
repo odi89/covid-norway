@@ -7,3 +7,6 @@
 - Run covid-norway to get the promt up and going
 - You can provide a commune parameter to get local stats for that commune 
 - Example covid-norway Nesodden
+
+### Example
+![image](example.png)
