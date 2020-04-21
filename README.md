@@ -1,6 +1,6 @@
 # covid-norway
 
-## A Simple CLI tool that wraps around one of [www.vg.no](https://www.vg.no/spesial/2020/corona/?utm_source=corona-widget&utm_term=d6#norge-innlagt-paa-sykehus)
+## A Simple CLI tool that wraps around one of [www.vg.no](https://www.vg.no/spesial/2020/corona/?utm_source=corona-widget&utm_term=d6#norge-innlagt-paa-sykehus) apis
 
 ### Usage
 -Clone or download run npm install -g (for global)
