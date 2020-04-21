@@ -1,0 +1,33 @@
+{
+  "name": "covid-norway",
+  "version": "1.0.0",
+  "peferGlobal": true,
+  "bin": {
+   "covid-norway": "src/index.js"
+  },
+  "description": "A Simple CLI-tool for Covid Statistics in Norway",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odi89/covid-norway.git"
+  },
+  "keywords": [
+    "Covid",
+    "Norway",
+    "stats",
+    "health"
+  ],
+  "author": "Sebastian Melbye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odi89/covid-norway/issues"
+  },
+  "homepage": "https://github.com/odi89/covid-norway#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chalk": "^4.0.0",
+    "commander": "^5.0.0",
+    "inquirer": "^7.1.0"
+  },
+  "devDependencies": {}
+}
